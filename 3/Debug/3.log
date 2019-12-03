@@ -1,2 +1,3 @@
 ﻿  main.cpp
+C:\Users\Tinde\source\repos\AdventOfCode\3\main.cpp(159): warning C4715: 'sortedContains': not all control paths return a value
   3.vcxproj -> C:\Users\Tinde\source\repos\AdventOfCode\Debug\3.exe

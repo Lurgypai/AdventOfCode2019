@@ -1,0 +1,7 @@
+﻿  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Tinde\source\repos\AdventOfCode\2\main.cpp(13): warning C4715: 'doOpCode': not all control paths return a value
+  All 265 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  2.vcxproj -> C:\Users\Tinde\source\repos\AdventOfCode\Release\2.exe
